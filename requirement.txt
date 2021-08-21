@@ -17,4 +17,4 @@ flask
 editdistance 
 scikit-image 
 imgaug==0.2.8
-
+easyocr==1.4
